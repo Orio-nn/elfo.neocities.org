@@ -4,3 +4,18 @@
 .hover\:text-shadow {
     text-shadow: 1px 1px gray;
 }
+
+.m-900px {
+    margin-right: 900px;
+}
+
+body {
+    background-image: url(https://cutewallpaper.org/21/moving-space-background-gif/CSS-Snippets-Fantasy-Header-by-Ikue-on-DeviantArt.gif);
+}
+footer {
+    background-color: rgba(31, 41, 55, 0.5);
+}
+
+marquee {
+    background-color: rgba(31, 41, 55, 0.5);
+}
